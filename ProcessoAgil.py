@@ -20,7 +20,7 @@ try:
 		
 		..."summary":"Texto do Subtitulo","title":"texto do subtitulo"
 	
-	assim criei essa expressão regular que captura somente o conteudo(se houver, por isso o ?)dos pares subtitulo e do titulo.
+	assim criei essa expressão regular que captura somente o conteudo dos pares subtitulo e do titulo.
 	'''
 	regex = r'"summary":(".*?"),"title":(".*?")'
 
